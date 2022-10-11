@@ -1,2 +1,2 @@
 # kiit_hacktober
-# this repo contains important dsa questions.
+# This repo contains important dsa questions.
